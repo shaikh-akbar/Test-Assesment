@@ -25,7 +25,7 @@
   - Axios
   - React Toastify
   - Tailwind CSS (for styling)
-- **Backend** (Optional):
+- **Backend** :
   - Node.js
   - Express
   - NodeCache (for caching API responses)
@@ -40,5 +40,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shaikh-akbar/NewsHeadlines.git
-   cd NewsHeadlines
+https://github.com/shaikh-akbar/Test-Assesment.git
+
+After clonning you have to insall packages with npm i in frontend and backend 
+after installing you have to run cmd in backend first npm start then frontend npm run dev 
